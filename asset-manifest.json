@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/thaiofernandes/react-test.git/static/css/main.71bd5e9e.chunk.css",
+    "main.js": "/thaiofernandes/react-test.git/static/js/main.25bf43f8.chunk.js",
+    "main.js.map": "/thaiofernandes/react-test.git/static/js/main.25bf43f8.chunk.js.map",
+    "runtime-main.js": "/thaiofernandes/react-test.git/static/js/runtime-main.3cf3d414.js",
+    "runtime-main.js.map": "/thaiofernandes/react-test.git/static/js/runtime-main.3cf3d414.js.map",
+    "static/js/2.9b6246ed.chunk.js": "/thaiofernandes/react-test.git/static/js/2.9b6246ed.chunk.js",
+    "static/js/2.9b6246ed.chunk.js.map": "/thaiofernandes/react-test.git/static/js/2.9b6246ed.chunk.js.map",
+    "index.html": "/thaiofernandes/react-test.git/index.html",
+    "precache-manifest.b89c7182738ed41f2121c0cab7aa29ad.js": "/thaiofernandes/react-test.git/precache-manifest.b89c7182738ed41f2121c0cab7aa29ad.js",
+    "service-worker.js": "/thaiofernandes/react-test.git/service-worker.js",
+    "static/css/main.71bd5e9e.chunk.css.map": "/thaiofernandes/react-test.git/static/css/main.71bd5e9e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cf3d414.js",
+    "static/js/2.9b6246ed.chunk.js",
+    "static/css/main.71bd5e9e.chunk.css",
+    "static/js/main.25bf43f8.chunk.js"
+  ]
+}
